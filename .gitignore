@@ -1,0 +1,26 @@
+#########################################################################################
+# ficheros que no son tenidos en cuenta a la hora de ser comprobadas sus modificaciones #
+#########################################################################################
+
+
+###########
+# BACKUPS #
+###########
+*~
+*.bak
+
+#########################
+# LOGS Y BASES DE DATOS #
+#########################
+*.log
+*.sql
+*.sqlite
+
+######################
+# GENERADOS POR OS   #
+######################
+.DS_Store
+._.DS_Store
+ehthumbs.db
+Icon?
+Thumbs.db
